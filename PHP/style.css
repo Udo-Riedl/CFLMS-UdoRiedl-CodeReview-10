@@ -1,0 +1,14 @@
+.create{
+    display: flex;
+    justify-content: center;
+}
+
+.update{
+    display: flex;
+    justify-content: center;
+}
+
+.index{
+    display: flex;
+    justify-content: center;
+}
